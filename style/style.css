@@ -232,7 +232,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    column-gap: 100px;
+    column-gap: 50px;
 }
 
 .features__column {
